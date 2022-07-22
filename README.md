@@ -5,7 +5,7 @@
 
 <img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=notAglitch&show_icons=true&theme=algolia"/>
 
-<img align = "left" width="47%" height = "150"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=notAglitch&layout=compact"/>
+<img align = "left" width="47%" height = "180"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=notAglitch&layout=compact"/>
 <!--height = "190"-->
 <!--
 **notAglitch/notAglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
